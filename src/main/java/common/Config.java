@@ -1,7 +1,6 @@
 package common;
 
 public class Config {
-    public static final String PLATFORM_AND_BROWSER = "chrome";
     /**
      * Clear browser cookies after each iteration
      * if true - clear cookies
